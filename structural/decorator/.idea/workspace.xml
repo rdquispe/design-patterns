@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6653dc17-6173-49fb-af69-b44794c70b58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorador/BlindajeDecorador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorador/CuentaDecorador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/CuentaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ICuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Cuenta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bsOem7rAh4fcKlH3cdX6yvQ04U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="decorator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6653dc17-6173-49fb-af69-b44794c70b58" name="Default Changelist" comment="" />
+      <created>1589417431385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589417431385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" width="800" height="714" key="#Intentions" timestamp="1589417837928">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" width="800" height="714" key="#Intentions/0.23.1440.877@0.23.1440.877" timestamp="1589417837928" />
+    <state x="533" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1589418874921">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="176" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1589418874921" />
+    <state x="427" y="194" width="586" height="534" key="find.popup" timestamp="1589417656978">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="427" y="194" width="586" height="534" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1589417656978" />
+  </component>
+</project>
